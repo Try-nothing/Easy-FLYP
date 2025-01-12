@@ -12,8 +12,8 @@ This repository provides an unofficial implementation of the method described in
 │   ├── mean_std.py              # Computes mean and variance of the dataset for regularization
 │   └── trans_standordcars.py    # Converts StanfordCars dataset to ImageNet format
 ├── src/                         # Main source code
-│   └── main_flyp_linearprob.py  # Main script for FLYP implementation
-├── template/                    # Templates for CLIP text encoder prompts
+│   ├── main_flyp_linearprob.py  # Main script for FLYP implementation
+│   └── template/                    # Templates for CLIP text encoder prompts
 └── README.md                    # This file
 ```
 
